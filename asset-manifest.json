@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/amaygit/portfolio.git/static/css/main.ffec051d.css",
+    "main.js": "/amaygit/portfolio.git/static/js/main.c0a1678b.js",
+    "static/media/image.jpeg": "/amaygit/portfolio.git/static/media/image.8f87c75ee0ff112f3341.jpeg",
+    "index.html": "/amaygit/portfolio.git/index.html",
+    "main.ffec051d.css.map": "/amaygit/portfolio.git/static/css/main.ffec051d.css.map",
+    "main.c0a1678b.js.map": "/amaygit/portfolio.git/static/js/main.c0a1678b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffec051d.css",
+    "static/js/main.c0a1678b.js"
+  ]
+}
